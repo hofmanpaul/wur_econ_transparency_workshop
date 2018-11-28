@@ -1,6 +1,6 @@
 ---
 title:  "Transparency and Data Management Workshop"
-date: "4 December 2018"
+date: "3 December 2018"
 output: pdf_document
 ---
 
@@ -16,7 +16,7 @@ Paul Hofman (paul.hofman@wur.nl) and Maarten Voors (maarten.voors@wur.nl)
 
   \medskip
 
-  **date: 4 December 2018**  
+  **date: 3 December 2018**  
   **time: 1230-1530**  
   **room: C67**  
   
