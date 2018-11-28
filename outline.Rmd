@@ -1,19 +1,28 @@
 ---
-title: "Transparency and Data Management Workshop"
-date: "3 December 2018"
+title:  "Transparency and Data Management Workshop"
+date: "4 December 2018"
 output: pdf_document
 ---
 
-# Agenda
+More and more academics are called upon to increase integrity in social science research. Is there a problem? If so what is it and why, and why should we care? This internal ECON workshop discusses key challenges related to research transparency, reproducibility and workflow. In addition, we will discuss the key tools that have been developed to help overcome these issues. 
 
-MAARTEN ADD INTRO TEXT
-sent out week before
+The idea of the workshop is to have an interactive discussion around these issues. In preparation for the workshop think about what challenges you see for yourself and those around you. 
 
-  date: 4 December 2018  
-  time: 1230-1530  
-  room: C67
+Looking forward to seeing you! 
+
+Please do get in touch if you have any questions.
+
+Paul Hofman (paul.hofman@wur.nl) and Maarten Voors (maarten.voors@wur.nl)
+
+  \medskip
+
+  **date: 4 December 2018**  
+  **time: 1230-1530**  
+  **room: C67**  
   
-Agenda  
+  \medskip
+  
+# Agenda  
 \begin{itemize}
     \item 1230-1315 What is it? And why should we care? (Maarten)
     \item 1330-1400 Workflow Manual (Maarten)
@@ -23,14 +32,19 @@ Agenda
 # Resources
 
 ### Workshop Github
+https://github.com/hofmanpaul/wur_econ_transparency_workshop
 
-## References
+## Useful References
 
 ### Organisations
 \begin{itemize}
-    \item Berkeley Initiative for Transparency in the Social Sciences  https://www.bitss.org/, https://github.com/BITSS
     \item Open Science Framework https://osf.io 
-    \item OTHERS
+    \item Center for Open Science https://cos.io/top
+    \item Berkeley Initiative for Transparency in the Social Sciences  https://www.bitss.org/, https://github.com/BITSS
+    \item http://replication.uni-goettingen.de/
+    \item Center for Effective Global Action cega.berkeley.edu/
+    \item Evidence in Governance and Politics http://egap.org/
+    \item Project TIER https://www.projecttier.org/
 \end{itemize}
 
 ### Overview papers
